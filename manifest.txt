@@ -65,6 +65,7 @@ cstrike/models/v_aug.mdl
 cstrike/models/v_aug_r.mdl
 cstrike/models/v_awp.mdl
 cstrike/models/v_awp_r.mdl
+cstrike/models/v_c4.mdl
 cstrike/models/v_deagle.mdl
 cstrike/models/v_deagle_r.mdl
 cstrike/models/v_elite.mdl
