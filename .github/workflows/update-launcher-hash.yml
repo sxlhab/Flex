@@ -6,6 +6,9 @@ on:
     paths:
       - 'Game_latest.exe'
 
+permissions:
+  contents: write
+
 jobs:
   update-hash:
     runs-on: ubuntu-latest

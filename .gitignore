@@ -43,5 +43,6 @@ gldrv/*
 !Game.exe
 !manifest.txt
 !version.txt
-!launcher_version.txt
+!launcher_hash.txt
 !Game_Latest.exe
+
