@@ -1,0 +1,13 @@
+6
+
+weapon			320 320hud1	160	120	80	20
+weapon_s		320 320hud1	160	140	80	20
+ammo			320 640hud7	120	96	24	24
+
+//=====================================================================//
+//Objetohud - 640 -Nombre.spr - 0x 0y pos inicial - 0x 0y pos utilizada//
+//=====================================================================//
+
+weapon			640 HudHD_Subfusiles 	0	48	170	45
+weapon_s		640 HudHD_Subfusiles_g	0	48	170	45
+ammo			640 HudHD_Ammo 		180 	0 	50	50

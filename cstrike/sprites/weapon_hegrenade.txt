@@ -1,0 +1,13 @@
+6
+
+weapon			320 320hud1	80	200	80	20
+weapon_s		320 320hud1	80	220	80	20
+ammo			320 640hud7	72	96	24	24
+
+//=====================================================================//
+//Objetohud - 640 -Nombre.spr - 0x 0y pos inicial - 0x 0y pos utilizada//
+//=====================================================================//
+
+weapon			640 HudHD_Granadas	0	0	170	45
+weapon_s		640 HudHD_Granadas_g	0	0	170	45
+ammo			640 HudHD_Ammo		120	120	50	50

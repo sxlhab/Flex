@@ -30,6 +30,7 @@ INSTALL.LOG
 *.WAD
 *.htm
 *.txt
+!cstrike/sprites/*.txt
 cstrike/realbot/*
 cstrike/maps/*
 cstrike/sound/*

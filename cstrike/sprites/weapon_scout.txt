@@ -1,0 +1,17 @@
+10
+
+weapon			320 320hud1	0	80	80	20
+weapon_s		320 320hud1	0	100	80	20
+ammo			320 640hud7	72	72	24	24
+zoom			320 ch_sniper	0	0	256	256
+zoom_autoaim		320 ch_sniper	0	0	256	256
+
+//=====================================================================//
+//Objetohud - 640 - .spr - 0x 0y pos inicial - 0x 0y pos utilizada//
+//=====================================================================//
+
+weapon			640 HudHD_Snipers	0	144	170	45
+weapon_s		640 HudHD_Snipers_g	0	144	170	45
+ammo			640 HudHD_Ammo		0	60	50	50
+zoom			640 sniper_scope	0	0	256	256
+zoom_autoaim		640 sniper_scope	0	0	256	256
