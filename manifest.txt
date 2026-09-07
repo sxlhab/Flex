@@ -3,15 +3,6 @@ cstrike/models/arcticorangeT.mdl
 cstrike/models/chick.mdl
 cstrike/models/feather.mdl
 cstrike/models/head.mdl
-cstrike/models/hostage.mdl
-cstrike/models/hostage01.mdl
-cstrike/models/hostage02.mdl
-cstrike/models/hostage03.mdl
-cstrike/models/hostage04.mdl
-cstrike/models/hostage05.mdl
-cstrike/models/hostage06.mdl
-cstrike/models/hostage07.mdl
-cstrike/models/hostage08.mdl
 cstrike/models/lv_bottle.mdl
 cstrike/models/orange.mdl
 cstrike/models/oranget.mdl
