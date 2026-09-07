@@ -1,4 +1,3 @@
-cstrike/mapcycle.txt
 cstrike/models/arcticorange.mdl
 cstrike/models/arcticorangeT.mdl
 cstrike/models/chick.mdl
@@ -66,22 +65,16 @@ cstrike/models/v_aug.mdl
 cstrike/models/v_aug_r.mdl
 cstrike/models/v_awp.mdl
 cstrike/models/v_awp_r.mdl
-cstrike/models/v_c4.mdl
-cstrike/models/v_c4_r.mdl
 cstrike/models/v_deagle.mdl
 cstrike/models/v_deagle_r.mdl
 cstrike/models/v_elite.mdl
 cstrike/models/v_elite_r.mdl
-cstrike/models/v_famas.mdl
-cstrike/models/v_famas_r.mdl
 cstrike/models/v_fiveseven.mdl
 cstrike/models/v_fiveseven_r.mdl
 cstrike/models/v_flashbang.mdl
 cstrike/models/v_flashbang_r.mdl
 cstrike/models/v_g3sg1.mdl
 cstrike/models/v_g3sg1_r.mdl
-cstrike/models/v_galil.mdl
-cstrike/models/v_galil_r.mdl
 cstrike/models/v_glock18.mdl
 cstrike/models/v_glock18_r.mdl
 cstrike/models/v_hegrenade.mdl
@@ -150,6 +143,3 @@ cstrike/models/w_ump45.mdl
 cstrike/models/w_usp.mdl
 cstrike/models/w_xm1014.mdl
 cstrike/models/winebottle.mdl
-cstrike/motd.txt
-cstrike/readme.txt
-cstrike/titles.txt
