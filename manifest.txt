@@ -1,3 +1,5 @@
+cstrike/gfx/shell/btns_main.bmp
+cstrike/gfx/shell/splash.bmp
 cstrike/models/arcticorange.mdl
 cstrike/models/arcticorangeT.mdl
 cstrike/models/chick.mdl
