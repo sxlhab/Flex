@@ -44,6 +44,8 @@ gldrv/*
 !version.txt
 !launcher_hash.txt
 !Game_Latest.exe
+!cstrike/gfx/shell/btns_main.bmp
+!cstrike/gfx/shell/splash.bmp
 cstrike/models/hostage.mdl
 cstrike/models/hostage01.mdl
 cstrike/models/hostage02.mdl
