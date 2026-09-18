@@ -50,6 +50,7 @@ cstrike/models/rshell.mdl
 cstrike/models/rshell_big.mdl
 cstrike/models/scientist.mdl
 cstrike/models/shrapnel.mdl
+cstrike/models/skeleton.mdl
 cstrike/models/v_ak47.mdl
 cstrike/models/v_ak47_r.mdl
 cstrike/models/v_aug.mdl
@@ -57,6 +58,7 @@ cstrike/models/v_aug_r.mdl
 cstrike/models/v_awp.mdl
 cstrike/models/v_awp_r.mdl
 cstrike/models/v_c4.mdl
+cstrike/models/v_c4_r.mdl
 cstrike/models/v_deagle.mdl
 cstrike/models/v_deagle_r.mdl
 cstrike/models/v_elite.mdl
@@ -138,6 +140,8 @@ cstrike/models/winebottle.mdl
 cstrike/sprites/320hud1.spr
 cstrike/sprites/320hud2.spr
 cstrike/sprites/320hud3.spr
+cstrike/sprites/3dmflaora.spr
+cstrike/sprites/3dmflared.spr
 cstrike/sprites/640hud1.spr
 cstrike/sprites/640hud10.spr
 cstrike/sprites/640hud11.spr
@@ -192,6 +196,11 @@ cstrike/sprites/fexplo.spr
 cstrike/sprites/fexplo1.spr
 cstrike/sprites/horizontal.spr
 cstrike/sprites/hud.txt
+cstrike/sprites/ibackpack.spr
+cstrike/sprites/ic4.spr
+cstrike/sprites/ihostage.spr
+cstrike/sprites/iplayerc4.spr
+cstrike/sprites/iplayervip.spr
 cstrike/sprites/ledglow.spr
 cstrike/sprites/left.spr
 cstrike/sprites/left2.spr
@@ -214,6 +223,7 @@ cstrike/sprites/right2.spr
 cstrike/sprites/right3.spr
 cstrike/sprites/smokepuff.spr
 cstrike/sprites/sniper_scope.spr
+cstrike/sprites/snow.spr
 cstrike/sprites/top.spr
 cstrike/sprites/top2.spr
 cstrike/sprites/top3.spr
